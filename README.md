@@ -57,7 +57,7 @@ HELLO WORLD<br>
 - [ ] 체크3
 ---
 ## 링크(바로가기)
-[네이버 바로가기](https://naver,com)  
+[네이버 바로가기](https://naver.com)  
 
 
 
