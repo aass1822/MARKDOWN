@@ -58,7 +58,7 @@ HELLO WORLD<br>
 ---
 ## 링크(바로가기)
 [네이버 바로가기](https://naver.com)  
-<a href="https://naver.com/" target="_blank">새탭 열고 이동</a>
+<a href="https://www.figma.com/design/2ZhOXq2Su21W4EkFGRaO3y/%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84?node-id=0-1&t=z3hd1l7dGpEUwiaZ-1" target="_blank">새탭 열고 이동</a>
 
 
 
